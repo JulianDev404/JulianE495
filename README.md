@@ -11,7 +11,7 @@
 
 ## Estadísticas GitHub
 
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=JulianE495&show_icons=true&count_private=true&hide=contribs)](https://github.com/JulianE495)
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=JulianE495&show_icons=true&count_private=false&hide=contribs)](https://github.com/JulianE495)
 
 ## Proyectos Destacados
 
