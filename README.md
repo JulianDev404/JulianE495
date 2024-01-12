@@ -7,7 +7,7 @@
 - 💻 Actualmente estoy trabajando en Grupo Chavon.
 - 🌱 Estoy aprendiendo Laravel.
 - 📫 Puedes contactarme en [julianemiliano.dev@gmail.com](mailto:julianemiliano.dev@gmail.com).
-- 📝 [Mi Portafolio](juliandev.surge.sh)
+- 📝 [Mi Portafolio](https://juliandev.surge.sh)
 
 ## Estadísticas GitHub
 
