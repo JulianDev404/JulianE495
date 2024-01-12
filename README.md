@@ -6,7 +6,6 @@
 
 - 💻 Actualmente estoy trabajando en Grupo Chavon.
 - 🌱 Estoy aprendiendo Laravel.
-- 💬 Pregúntame sobre [Tema de Especialización].
 - 📫 Puedes contactarme en [julianemiliano.dev@gmail.com](mailto:julianemiliano.dev@gmail.com).
 - 📝 [Mi Portafolio](juliandev.surge.sh)
 
@@ -16,8 +15,7 @@
 
 ## Proyectos Destacados
 
-- [Proyecto 1]: Breve descripción y enlace al repositorio.
-- [Proyecto 2]: Breve descripción y enlace al repositorio.
+- [Task Manager](https://github.com/JulianE495/task-manager): Es una aplicación de gestión de tareas diseñada para ayudarte a organizar y realizar un seguimiento de tus tareas diarias de manera eficiente. 
 
 ¡Gracias por visitar mi perfil! Estoy emocionado de colaborar y aprender con la comunidad de GitHub.
 
