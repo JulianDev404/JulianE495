@@ -9,10 +9,6 @@
 - 📫 Puedes contactarme en [julianemiliano.dev@gmail.com](mailto:julianemiliano.dev@gmail.com).
 - 📝 [Mi Portafolio](https://juliandev.surge.sh)
 
-## Estadísticas GitHub
-
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=JulianE495&show_icons=true&count_private=false&hide=contribs)](https://github.com/JulianE495)
-
 ## Proyectos Destacados
 
 - [Task Manager](https://github.com/JulianE495/task-manager): Es una aplicación de gestión de tareas diseñada para ayudarte a organizar y realizar un seguimiento de tus tareas diarias de manera eficiente. 
