@@ -4,14 +4,9 @@
 
 ## Sobre Mí
 
-- 💻 Actualmente estoy trabajando en Grupo Chavon.
-- 🌱 Estoy aprendiendo Laravel.
+- 💻 Actualmente estoy trabajando en el Ministerio de Industria, Comercio y Mipymes (MICM) de la Republica Dominicana.
 - 📫 Puedes contactarme en [julianemiliano.dev@gmail.com](mailto:julianemiliano.dev@gmail.com).
-- 📝 [Mi Portafolio](https://juliandev.surge.sh)
-
-## Proyectos Destacados
-
-- [Task Manager](https://github.com/JulianE495/task-manager): Es una aplicación de gestión de tareas diseñada para ayudarte a organizar y realizar un seguimiento de tus tareas diarias de manera eficiente. 
+- 📝 [Mi Portafolio](https://juliandev.do)
 
 ¡Gracias por visitar mi perfil! Estoy emocionado de colaborar y aprender con la comunidad de GitHub.
 
